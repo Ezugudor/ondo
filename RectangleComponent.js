@@ -10,7 +10,7 @@ import React from "react";
 const RectangleComponent = () => (
   <svg width={300} height={80} viewBox="0 0 300 80">
     <defs>
-      <style>{".a{fill:#fff;}"}</style>
+      <style>{".a{fill:#ffffff;}"}</style>
     </defs>
     <rect className="a" width={300} height={80} />
   </svg>
